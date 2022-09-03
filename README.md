@@ -9,6 +9,7 @@ GitHub Copilotの評価についてはgithub pagesに掲載予定です。
 - 動作環境
   - Ubuntu22.04 on WSL2
   - Docker
+  - vscode（Remote-WSL, Remote-Contaners）
 - 実行環境構築手順
   - sh start.sh
 
